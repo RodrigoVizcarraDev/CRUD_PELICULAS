@@ -3,4 +3,8 @@ textarea {
     height: auto !important;
     min-height: 120px !important;
     resize: vertical;
-  }
+}
+.imagenes_peliculas{
+  height: 450px;
+  object-fit: cover;
+}
