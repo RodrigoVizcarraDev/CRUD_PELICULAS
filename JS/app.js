@@ -15,3 +15,4 @@ function cambiarTema(color){
     // guardar en localstorage
     localStorage.setItem("theme", JSON.stringify(color));
 }
+//Mostrar sol o luna segun el valor que tengo configurado del tema
